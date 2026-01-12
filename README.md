@@ -3,7 +3,7 @@
 A thoughtfully designed mental health web application focused on emotional awareness, self-reflection, and accessible support through a clean and calming user experience.
 
 # 🌐 Live Demo:
-👉 [https://your-netlify-link.netlify.app](https://ubiquitous-semifreddo-138096.netlify.app/)
+👉 [https://your-netlify-link.netlify.app]
 
 #  📦 Repository:
 This repository contains the full source code for the Tan-Man web application.
@@ -55,7 +55,7 @@ Tan-Man/
 Option 1: Live Application (Recommended)
 
 You can directly access the deployed version here:
-👉 https://your-netlify-link.netlify.app
+👉 [https://your-netlify-link.netlify.app]
 
 No setup required — open the link and explore the application.
 
@@ -63,7 +63,7 @@ Option 2: Run Locally
 
 Clone this repository:
 
-git clone https://github.com/your-username/Tan-Man.git
+git clone https:(https://github.com/tanishaa-1208/Tan-Man.git)
 
 
 Navigate to the project directory:
