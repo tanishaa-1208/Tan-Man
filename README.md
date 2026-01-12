@@ -63,7 +63,7 @@ Option 2: Run Locally
 
 Clone this repository:
 
-git clone https:(https://github.com/tanishaa-1208/Tan-Man.git)
+git clone https:[(https://github.com/tanishaa-1208/Tan-Man.git)](https://github.com/tanishaa-1208/Tan-Man.git)
 
 
 Navigate to the project directory:
